@@ -30,7 +30,7 @@ import os
 import base64
 
 def cargar_imagen(codigo, ruta_magen=""):
-    prefix = r"C:\Alfa Gestion\\"
+    prefix = r"C:\Alfa Gestion\\Imagenes\\ImagenesWeb\\"
     """
     Carga la imagen de un producto desde el sistema de archivos.
     Primero intenta en carpeta_imagenes usando el código, 
